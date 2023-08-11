@@ -241,11 +241,11 @@ ion-icon{
   height: 20px;
 }
 
-.webdev {width: 90%; background-color: #04AA6D;} /* Green */
-.React {width: 65%; background-color: #2196F3;} /* Blue */
-.ros {width: 70%; background-color: #f44336;} /* Red */
-.python {width: 80%; background-color: #808080;} /* Dark Grey */
-.Arduino {width: 30%; background-color: #9c749a;} /* Dark Grey */
+.cpp {width: 70%; background-color: #04AA6D;} /* Green */
+.react {width: 60%; background-color: #2196F3;} /* Blue */
+.image {width: 55%; background-color: #f44336;} /* Red */
+.pyth {width: 85%; background-color: #808080;} /* Dark Grey */
+.html {width: 90%; background-color: #9c749a;} /* Dark Grey */
 
 
 
